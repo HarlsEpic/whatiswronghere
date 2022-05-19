@@ -7,7 +7,7 @@ For all integers between 1 and 99 (include both):
     # print buzz for multiples of 5 
     # print fizzbuzz for multiples of 3 and 5"
 """
-# a comment
+
 def fizzbuzz(max_num):
     "This method implements FizzBuzz"
     
