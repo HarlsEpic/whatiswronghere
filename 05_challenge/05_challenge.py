@@ -21,7 +21,7 @@ def fizzbuzz(max_num):
         print ('i have created')
         num1 = int(f.readline())   
         num2=int(f.readline())        
-        max_num = int(f.readline())
+        max_num = int(f.readline())+1
          
     # Google for 'range in python' to see what it does
     for i in range(1,max_num):
