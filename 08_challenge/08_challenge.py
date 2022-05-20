@@ -32,6 +32,7 @@ class Fizz_Buzz:
             elif i%num2==0:
                 print(i,five_mul)
 
+
 #----START OF SCRIPT
 if __name__=='__main__':
     "Initialize the fizzbuzz object"
